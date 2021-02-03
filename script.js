@@ -5,8 +5,8 @@ function myRandom(min, max) {
     return floor
 }
 
-let minInt = +prompt('Введите минимальное число')
-let maxInt = +prompt('Введите максимальное число')
+let minInt = +prompt('Enter minimal number')
+let maxInt = +prompt('Enter maximal number')
 
 let answerUser = 0
 let answerUserMinus = 0
